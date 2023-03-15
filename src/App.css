@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.733);
+  color: aliceblue;
+}
+
+.nav-ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+a {
+  color: rgb(245, 70, 39);
+  text-decoration: none;
+  padding: 23px;
+  font-size: 23px;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+input {
+  width: 42%;
+}
+
+ul {
+  text-align: start;
+}
